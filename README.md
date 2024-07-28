@@ -1,2 +1,4 @@
 # sankalpNewRepo
- New test for Github Desktop
+This is my first Git repository
+Author-Sankalp Lohia
+
